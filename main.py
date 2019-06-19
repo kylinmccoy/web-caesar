@@ -14,7 +14,7 @@ form = """
         <head>
             <style>
                 form {{
-                    background-color: powerderblue;
+                    background-color: powderblue;
                     padding: 20px;
                     margin: 0 auto;
                     width: 540px;
